@@ -1,3 +1,5 @@
+# Write a program to accept a no, no. of bits & position to turn off from given no. Print no after turning off bits in decimal.
+
 def turnOffBits(no,bits,pos):
     x = (1<<bits) - 1
     x = x<<(pos-bits)
