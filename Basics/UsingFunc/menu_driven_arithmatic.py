@@ -1,3 +1,5 @@
+# Write a menu driven arithmatic oprations based program.
+
 def takeInputVal():
     a,b=eval(input("Enter the two numbers: "))
     return a,b
