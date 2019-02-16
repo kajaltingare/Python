@@ -1,3 +1,4 @@
+# Write a program to accept two numbers from user and perform basic mathematical operations on it.
 num1=int(input('Enter the first number: \n'))
 num2=int(input('Enter the second number: \n'))
 
