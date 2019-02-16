@@ -1,3 +1,5 @@
+# Write a program to accept a no from user & no. of bits to turn on from given position.
+
 def turnOnBits(no,pos,bits):
     x = (1<<bits) - 1
     x = x<<(pos-bits)
