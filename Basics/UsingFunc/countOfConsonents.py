@@ -1,3 +1,5 @@
+# Write a program to accept a string from user & print count of consonents in it.
+
 def cntConsonent(inpString):
     count = 0
     for i in inpString:
