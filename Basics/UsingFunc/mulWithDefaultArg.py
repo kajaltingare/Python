@@ -1,3 +1,5 @@
+# Multiplication with default arguments.
+
 def mulWithDefaultArg(a,b,c=1,d=1,e=1):
     return(a*b*c*d*e)
 
