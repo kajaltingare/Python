@@ -1,3 +1,5 @@
+# Write a program to check whether the given no is even or odd without using arithmatic operators.
+
 def IsOdd(num):
     if((num&1)==0):
         return False
