@@ -1,3 +1,5 @@
+# Write a program to accept a no from user & check if it is divisible by 8 without using arithmatic operators.
+
 def isDivisibleByEight(num):
     if(num&7==0):
         return True
