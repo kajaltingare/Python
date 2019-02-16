@@ -1,3 +1,4 @@
+# Write a program to accept two strings from user & check if 2nd string is rotation of 1st string.
 INP_Str1 = input('Enter the first string: ')
 INP_Str2 = input('Enter the second string: ')
 print('You entered string1 = %s \n string2 = %s'%(INP_Str1 ,INP_Str2))
