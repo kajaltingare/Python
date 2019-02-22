@@ -1,3 +1,5 @@
+# Write a program to find string1 is right rotation of string2.
+
 def isRightRotation(firstString, secondString):
     completeStr =  secondString*2
     if(firstString in completeStr):
