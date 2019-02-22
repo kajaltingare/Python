@@ -1,3 +1,5 @@
+# Write a program to find factorial of a number.
+
 def factorial(fact):
     
     if(fact<0):
