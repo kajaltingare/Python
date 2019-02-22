@@ -1,3 +1,5 @@
+# Program to explain Variable Argument Dictionary
+
 def variableArgsDictionary(a,b,*args,**kwargs):
     print(a,b)
     print(type(args),type(kwargs))
