@@ -1,3 +1,5 @@
+# Write a program to accept any 2's power & print it's table in binary.
+
 def tablePowerInTwos(num):
     for temp in range(1,11):
         if(temp==1):
