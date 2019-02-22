@@ -1,3 +1,5 @@
+# Write a program to find given number is prime or not.
+
 def isPrime(num):
     if(num<2):
         return False
