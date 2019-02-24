@@ -1,3 +1,5 @@
+# Write a program to print pattern which is double of previous number in a row manner.
+
 def patternDouble(n):
     for i in range(1,n+1):
         print(i,end=' ')
