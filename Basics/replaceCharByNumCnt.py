@@ -11,13 +11,13 @@ def replaceCharByNumCnt(inpString):
             i+=1
             result+=ch
             result+=str(cnt)
-    returm result 
+    return result 
 
 def main():
     inpString = eval(input('Enter the string: '))
     result = replaceCharByNumCnt(inpString)
     print(result)
   
-  if __name__ == '__main__':
+ if __name__ == '__main__':
       main()
     
