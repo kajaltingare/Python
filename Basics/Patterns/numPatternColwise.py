@@ -1,4 +1,4 @@
-# Number pattern
+# Write a program to print flag like pattern of numbers or UpperLeft and LowerLeft pattern of numbers. 
 
 def numPatternColwise(n):
     for i in range(1,2*n):
