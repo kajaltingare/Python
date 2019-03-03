@@ -1,3 +1,5 @@
+# Write a program to print a pattern which contains triangle of numbers.
+
 def pattern4(n):
     for i in range(1,n+1):
         num=i
@@ -10,8 +12,10 @@ def pattern4(n):
             else:
                 num=num+1
         print()
+        
 def main():
     n=eval(input('Enter the no of rows to print: '))
     pattern4(n)
+    
 if __name__=='__main__':
     main()
